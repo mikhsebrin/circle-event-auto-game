@@ -1,0 +1,3 @@
+git+https://github.com/mikhsebrin/pyrogram.git
+tgcrypto==1.2.2
+apscheduler==3.9.1
